@@ -1,6 +1,5 @@
-
-
- # Shopee Group-Buy Price Calculator
+Course: LDCW6123 Fundamentals of Digital Competence for Programmers
+# Shopee Group-Buy Price Calculator
 
 > A small project that explains how small vendors moved from traditional markets to digital storefronts (Shopee case study) and includes an interactive group-buy price calculator.
 
